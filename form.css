@@ -1,0 +1,56 @@
+body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/9/0/3/619745.jpg');
+
+}
+
+.bio{
+  position: absolute;
+  left: 15px;
+  width: 415px;
+  border: 3px solid rgb(4, 107, 126);
+  padding: 15px;
+  color: white;
+  background-color: turquoise;
+}
+
+.education{
+  position: absolute;
+  top: 485px;
+  left: 1025px;
+  width: 375px;
+  border: 3px solid rgb(4, 107, 126);
+  padding: 1px;
+  color: white;
+  background-color: turquoise;
+}
+
+.skill{
+  position: absolute;
+  left: 500px;
+  top: 575px;
+  width: 480px;
+  border: 3px solid rgb(4, 107, 126);
+  padding: 1px;
+  color: white;
+  background-color: turquoise;
+}
+
+.one {
+  color: white;
+  font-size: large;
+}
+
+.photo {
+  padding: 15px;
+}
+
+table, th, td {
+  position: fixed
+  left: 0 px
+  top: 400 px
+  border: 10px solid rgb(4, 107, 126);
+  padding: 15px;
+  border-collapse: collapse;
+  font-size: large;
+  font: bold;
+}
